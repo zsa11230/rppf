@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rpp-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/rppf-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/rppf-urms/pom.xml" />
+        <option value="$PROJECT_DIR$/rppf-common/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
